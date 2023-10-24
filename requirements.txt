@@ -1,0 +1,5 @@
+tabulate
+csv
+sys
+wikipedia
+requests
